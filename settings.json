@@ -12,9 +12,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -49,
+    "y": -43,
+    "z": 46
   },
   "utils": {
     "auto-auth": {
@@ -30,15 +30,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a Femboy",
+        "Rape Niggers!",
+        "I like to play With Kids!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000,
+    "max-reconnect-delay": 120,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
